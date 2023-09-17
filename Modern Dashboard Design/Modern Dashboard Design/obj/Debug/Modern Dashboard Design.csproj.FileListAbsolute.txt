@@ -1,0 +1,93 @@
+C:\Users\Gadget Fix\Downloads\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\Modern Dashboard Design.exe.config
+C:\Users\Gadget Fix\Downloads\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\Modern Dashboard Design.exe
+C:\Users\Gadget Fix\Downloads\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\Modern Dashboard Design.pdb
+C:\Users\Gadget Fix\Downloads\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern Dashboard Design.csprojAssemblyReference.cache
+C:\Users\Gadget Fix\Downloads\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.Form1.resources
+C:\Users\Gadget Fix\Downloads\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.Properties.Resources.resources
+C:\Users\Gadget Fix\Downloads\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern Dashboard Design.csproj.GenerateResource.cache
+C:\Users\Gadget Fix\Downloads\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern Dashboard Design.csproj.CoreCompileInputs.cache
+C:\Users\Gadget Fix\Downloads\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern Dashboard Design.exe
+C:\Users\Gadget Fix\Downloads\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern Dashboard Design.pdb
+C:\Users\Gadget Fix\Downloads\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\CircularProgressBar.dll
+C:\Users\Gadget Fix\Downloads\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\WinFormAnimation.dll
+C:\Users\Gadget Fix\Downloads\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\CircularProgressBar.xml
+C:\Users\Gadget Fix\Downloads\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\WinFormAnimation.xml
+C:\Users\Gadget Fix\Downloads\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern Dashboard Design.csproj.CopyComplete
+C:\Users\ASUS\Downloads\Modern Dashboard Design (Part-I)\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\Modern Dashboard Design.exe.config
+C:\Users\ASUS\Downloads\Modern Dashboard Design (Part-I)\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\Modern Dashboard Design.exe
+C:\Users\ASUS\Downloads\Modern Dashboard Design (Part-I)\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\Modern Dashboard Design.pdb
+C:\Users\ASUS\Downloads\Modern Dashboard Design (Part-I)\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\CircularProgressBar.dll
+C:\Users\ASUS\Downloads\Modern Dashboard Design (Part-I)\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\WinFormAnimation.dll
+C:\Users\ASUS\Downloads\Modern Dashboard Design (Part-I)\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\CircularProgressBar.xml
+C:\Users\ASUS\Downloads\Modern Dashboard Design (Part-I)\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\WinFormAnimation.xml
+C:\Users\ASUS\Downloads\Modern Dashboard Design (Part-I)\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern Dashboard Design.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\Modern Dashboard Design (Part-I)\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.Form1.resources
+C:\Users\ASUS\Downloads\Modern Dashboard Design (Part-I)\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.Properties.Resources.resources
+C:\Users\ASUS\Downloads\Modern Dashboard Design (Part-I)\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern Dashboard Design.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Modern Dashboard Design (Part-I)\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern Dashboard Design.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Modern Dashboard Design (Part-I)\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern Dashboard Design.csproj.CopyComplete
+C:\Users\ASUS\Downloads\Modern Dashboard Design (Part-I)\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern Dashboard Design.exe
+C:\Users\ASUS\Downloads\Modern Dashboard Design (Part-I)\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern Dashboard Design.pdb
+C:\Users\ASUS\Downloads\Modern Dashboard Design (Part-I)\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.Resources.Form2.resources
+C:\Users\ASUS\Downloads\Modern Dashboard Design (Part-I)\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\MySqlConnector.dll
+C:\Users\ASUS\Downloads\Modern Dashboard Design (Part-I)\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\System.Buffers.dll
+C:\Users\ASUS\Downloads\Modern Dashboard Design (Part-I)\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Downloads\Modern Dashboard Design (Part-I)\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\System.Memory.dll
+C:\Users\ASUS\Downloads\Modern Dashboard Design (Part-I)\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ASUS\Downloads\Modern Dashboard Design (Part-I)\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS\Downloads\Modern Dashboard Design (Part-I)\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Downloads\Modern Dashboard Design (Part-I)\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\MySqlConnector.xml
+C:\Users\ASUS\Downloads\Modern Dashboard Design (Part-I)\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\System.Buffers.xml
+C:\Users\ASUS\Downloads\Modern Dashboard Design (Part-I)\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ASUS\Downloads\Modern Dashboard Design (Part-I)\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\System.Memory.xml
+C:\Users\ASUS\Downloads\Modern Dashboard Design (Part-I)\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ASUS\Downloads\Modern Dashboard Design (Part-I)\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ASUS\Downloads\Modern Dashboard Design (Part-I)\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ASUS\Downloads\Modern Dashboard Design (Part-I)\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.Resources.Form3.resources
+C:\Users\ASUS\Downloads\Modern Dashboard Design (Part-I)\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.Resources.Form4.resources
+C:\Users\ASUS\Downloads\Modern Dashboard Design (Part-I)\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.Resources.Form5.resources
+C:\Users\ASUS\Downloads\Modern Dashboard Design (Part-I)\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.Resources.Form6.resources
+C:\Users\ASUS\Downloads\Modern Dashboard Design (Part-I)\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.EmpAdd.resources
+C:\Users\ASUS\Downloads\Modern Dashboard Design (Part-I)\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.Form8.resources
+C:\Users\ASUS\Downloads\Modern Dashboard Design (Part-I)\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.Form9.resources
+C:\Users\ASUS\Downloads\Modern Dashboard Design (Part-I)\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.EmployeeDashboar.resources
+C:\Users\ASUS\Downloads\Modern Dashboard Design (Part-I)\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.order.resources
+D:\RED ROOSTER FARM - OUTLET\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\Modern Dashboard Design.exe.config
+D:\RED ROOSTER FARM - OUTLET\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\Modern Dashboard Design.exe
+D:\RED ROOSTER FARM - OUTLET\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\Modern Dashboard Design.pdb
+D:\RED ROOSTER FARM - OUTLET\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\CircularProgressBar.dll
+D:\RED ROOSTER FARM - OUTLET\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\MySqlConnector.dll
+D:\RED ROOSTER FARM - OUTLET\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\System.Buffers.dll
+D:\RED ROOSTER FARM - OUTLET\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\RED ROOSTER FARM - OUTLET\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\System.Memory.dll
+D:\RED ROOSTER FARM - OUTLET\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\System.Numerics.Vectors.dll
+D:\RED ROOSTER FARM - OUTLET\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\RED ROOSTER FARM - OUTLET\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\RED ROOSTER FARM - OUTLET\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\WinFormAnimation.dll
+D:\RED ROOSTER FARM - OUTLET\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\CircularProgressBar.xml
+D:\RED ROOSTER FARM - OUTLET\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\MySqlConnector.xml
+D:\RED ROOSTER FARM - OUTLET\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\System.Buffers.xml
+D:\RED ROOSTER FARM - OUTLET\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\RED ROOSTER FARM - OUTLET\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\System.Memory.xml
+D:\RED ROOSTER FARM - OUTLET\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\System.Numerics.Vectors.xml
+D:\RED ROOSTER FARM - OUTLET\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\RED ROOSTER FARM - OUTLET\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\RED ROOSTER FARM - OUTLET\Modern Dashboard Design\Modern Dashboard Design\bin\Debug\WinFormAnimation.xml
+D:\RED ROOSTER FARM - OUTLET\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern Dashboard Design.csproj.AssemblyReference.cache
+D:\RED ROOSTER FARM - OUTLET\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.EmpAdd.resources
+D:\RED ROOSTER FARM - OUTLET\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.EmployeeDashboar.resources
+D:\RED ROOSTER FARM - OUTLET\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.Form1.resources
+D:\RED ROOSTER FARM - OUTLET\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.Form8.resources
+D:\RED ROOSTER FARM - OUTLET\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.Form9.resources
+D:\RED ROOSTER FARM - OUTLET\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.order.resources
+D:\RED ROOSTER FARM - OUTLET\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.Properties.Resources.resources
+D:\RED ROOSTER FARM - OUTLET\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.Resources.Form2.resources
+D:\RED ROOSTER FARM - OUTLET\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.Resources.Form3.resources
+D:\RED ROOSTER FARM - OUTLET\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.Resources.Form4.resources
+D:\RED ROOSTER FARM - OUTLET\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.Resources.Form5.resources
+D:\RED ROOSTER FARM - OUTLET\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern_Dashboard_Design.Resources.Form6.resources
+D:\RED ROOSTER FARM - OUTLET\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern Dashboard Design.csproj.GenerateResource.cache
+D:\RED ROOSTER FARM - OUTLET\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern Dashboard Design.csproj.CoreCompileInputs.cache
+D:\RED ROOSTER FARM - OUTLET\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern Dashboard Design.csproj.CopyComplete
+D:\RED ROOSTER FARM - OUTLET\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern Dashboard Design.exe
+D:\RED ROOSTER FARM - OUTLET\Modern Dashboard Design\Modern Dashboard Design\obj\Debug\Modern Dashboard Design.pdb
